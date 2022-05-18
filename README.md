@@ -46,5 +46,8 @@
 
 ### GitHub Status.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa3dwi&show_icons=true&locale=en&layout=compact" alt="sa3dwi" /></p>
+
+<p>
+ ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa3dwi&hide=contribs,prs)
+</p>
 
