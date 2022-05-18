@@ -46,8 +46,6 @@
 
 ### GitHub Status.  
 
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-<p>
- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa3dwi&hide=contribs,prs)
-</p>
 
